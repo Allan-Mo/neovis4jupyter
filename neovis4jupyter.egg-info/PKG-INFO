@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: neovis4jupyter
+Version: 0.1
+Summary: A tool to visualize graph database queries from Neo4j in the Jupyter Notebook, when you CANNOT access databases by javascript-driver, but CAN access from jupyter server.
+Home-page: https://github.com/Allan-Mo/neovis4jupyter
+Author: Allan Mo
+Author-email: moyunzheng@gmail.com
+License: Apache License
+Description: no_description
+Platform: all
+Classifier: Programming Language :: Python
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Linux
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

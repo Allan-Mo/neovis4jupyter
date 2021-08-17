@@ -1,0 +1,17 @@
+README.md
+requirements.txt
+setup.py
+neovis4jupyter/__init__.py
+neovis4jupyter/graph.py
+neovis4jupyter.egg-info/PKG-INFO
+neovis4jupyter.egg-info/SOURCES.txt
+neovis4jupyter.egg-info/dependency_links.txt
+neovis4jupyter.egg-info/not-zip-safe
+neovis4jupyter.egg-info/requires.txt
+neovis4jupyter.egg-info/top_level.txt
+neovis4jupyter/assets/index.html
+neovis4jupyter/assets/index2.html
+neovis4jupyter/assets/jquery-3.2.1.min.js
+neovis4jupyter/assets/myz_neovis.js
+neovis4jupyter/assets/vis.css
+neovis4jupyter/assets/vis.min.js
